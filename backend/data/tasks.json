@@ -1,0 +1,26 @@
+[
+  {
+    "id": "demo-001",
+    "title": "Welcome to TaskFlow!",
+    "description": "This is a sample task. Try editing or deleting it, or create new tasks.",
+    "priority": "low",
+    "completed": false,
+    "createdAt": "2026-05-20T12:00:00.000Z"
+  },
+  {
+    "id": "demo-002",
+    "title": "Set up project dependencies",
+    "description": "Run npm install in the root folder to get started.",
+    "priority": "high",
+    "completed": true,
+    "createdAt": "2026-05-20T12:05:00.000Z"
+  },
+  {
+    "id": "demo-003",
+    "title": "Explore the API",
+    "description": "Try hitting /api/tasks in your browser to see the REST API.",
+    "priority": "medium",
+    "completed": false,
+    "createdAt": "2026-05-20T12:10:00.000Z"
+  }
+]
